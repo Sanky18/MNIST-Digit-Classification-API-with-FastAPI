@@ -24,16 +24,18 @@ This repository contains a FastAPI module that exposes a REST API for digit clas
 4. **Access the API at the specified endpoint.**
 
 ## Project Structure
-   ```css
-   ├───app
-   │   ├───__pycache__
-   │   ├───digit_predictor.py
-   │   ├───image_formatter.py
-   │   └───main.py
-   ├───models
-   ├───scripts
-   │   └───train_best_model.py
-   └───tests
+     ```css
+      ├───app
+      │   ├───__pycache__
+      │   ├───digit_predictor.py
+      │   ├───image_formatter.py
+      │   └───main.py
+      ├───models
+      ├───scripts
+      │   └───train_best_model.py
+      └───tests
+
+
 
 ## Usage
 
