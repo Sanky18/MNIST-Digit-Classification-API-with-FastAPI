@@ -63,7 +63,7 @@ Record observations by conducting experiments with hand-drawn digit images. Each
 
 We have conducted 10 experiments, each corresponding to a hand-drawn digit created in MS Paint. These experiments were evaluated by uploading the images to the FastAPI.
 
-![FastAPI - Swagger UI - Google Chrome 2024-04-25 18-38-43 (1)](https://github.com/Sanky18/MNIST-Digit-Classification-API-with-FastAPI/assets/119156783/d510bd49-90a2-4884-8828-35716067824c)
+
 
 
 
